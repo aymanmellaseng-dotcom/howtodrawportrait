@@ -1,0 +1,17 @@
+{
+  "lessons": [
+    {
+      "title": "Lesson 1: Getting Started With Faces",
+      "videos": [
+        { "title": "Intro to Anime Drawing", "url": "https://www.youtube.com/watch?v=jfl8N5pPAVU&pp=ygUQZHJhd2luZyB0dXRvcmlhbA%3D%3D" }
+      ]
+    },
+    {
+      "title": "Lesson 2: Anatomy",
+      "videos": [
+        { "title": "Face Proportions", "url": "https://www.youtube.com/watch?v=QLu-IGtmu9Q&pp=ygUQZHJhd2luZyB0dXRvcmlhbA%3D%3D" },
+        { "title": "Intro to Anime Drawing", "url": "https://www.youtube.com/watch?v=jfl8N5pPAVU&pp=ygUQZHJhd2luZyB0dXRvcmlhbA%3D%3D" }
+      ]
+    }
+  ]
+}
