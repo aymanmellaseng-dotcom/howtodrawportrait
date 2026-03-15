@@ -2,6 +2,6 @@
   "sections": [
     { "id": "anime", "title": "Anime" },
     { "id": "Scenes", "title": "cenes" },
-    { "id": "animeBackgrounds", "title": "Landscapes" }
+    { "id": "Backgrounds", "title": "Landscapes" }
   ]
 }
