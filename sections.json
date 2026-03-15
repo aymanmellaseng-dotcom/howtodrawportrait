@@ -1,7 +1,13 @@
 {
   "sections": [
+    { "id": "Celebrities", "title": "Celebrities" },
     { "id": "anime", "title": "Anime" },
-    { "id": "Scenes", "title": "cenes" },
+    { "id": "Portraits", "title": "Anime" },
+    { "id": "Machines", "title": "Machines" },
+    { "id": "Animals", "title": "Animals" },
+    { "id": "Heroes", "title": "Heroes" },
+    { "id": "Cartoons", "title": "Cartoons" },
+    { "id": "Scenes", "title": "Scenes" },
     { "id": "Backgrounds", "title": "Landscapes" }
   ]
 }
