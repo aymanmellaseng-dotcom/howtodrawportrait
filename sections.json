@@ -5,9 +5,9 @@
     { "id": "Portraits", "title": "Portraits" },
     { "id": "Machines", "title": "Machines" },
     { "id": "Animals", "title": "Animals" },
+    { "id": "Scenes", "title": "Scenes" },
+    { "id": "Backgrounds", "title": "Landscapes" },
     { "id": "Heroes", "title": "Heroes" },
     { "id": "Cartoons", "title": "Cartoons" },
-    { "id": "Scenes", "title": "Scenes" },
-    { "id": "Backgrounds", "title": "Landscapes" }
   ]
 }
