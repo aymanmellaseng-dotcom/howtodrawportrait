@@ -1,6 +1,6 @@
 {
   "tabs": ["draw", "favorite", "profile", "learning"],
-  "bottomPadding": 60,
+  "bottomPadding": 80,
   "horizontalPadding": 20,
   "topPadding": 8
 }
