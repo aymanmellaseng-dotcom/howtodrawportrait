@@ -13,7 +13,7 @@
     },
     "horizontalPadding": 20,
     "verticalPadding": 14,
-    "topPadding": 60,
+    "topPadding": 80,
     "titleSideInset": 70,
     "titleFontSize": 22,
     "showSettingsButton": true,
