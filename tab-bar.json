@@ -1,8 +1,8 @@
 {
   "tabs": ["draw", "favorite", "profile", "learning"],
-  "bottomPadding": 80,
+  "bottomPadding": 28,
   "horizontalPadding": 20,
-  "topPadding": 0,
+  "topPadding": 8,
   "header": {
     "drawTitle": "Trace Drawing AR Drawing",
     "tabTitles": {
@@ -13,7 +13,7 @@
     },
     "horizontalPadding": 20,
     "verticalPadding": 14,
-    "topPadding": 80,
+    "topPadding": 20,
     "titleSideInset": 70,
     "titleFontSize": 22,
     "showSettingsButton": true,
